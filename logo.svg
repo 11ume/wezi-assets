@@ -1,13 +1,13 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170.58 117.6">
     <style>
         .border {
-            stroke: #FFF !important;
+            stroke: #92e8ff !important;
         }
         .text {
-            fill: #FFF !important;
+            fill: #92e8ff !important;
         }
         .border-filled {
-            fill: #FFF !important;
+            fill: #92e8ff !important;
         }
         @media (prefers-color-scheme: dark) {
             .border {
